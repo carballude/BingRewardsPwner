@@ -1,0 +1,12 @@
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\bin\Debug\BingRewards Pwner!.exe.config
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\bin\Debug\BingRewards Pwner!.exe
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\bin\Debug\BingRewards Pwner!.pdb
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.exe
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.pdb
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewardsPwner.MainWindow.resources
+c:\users\pablo\documents\visual studio 2015\Projects\BingRewards Pwner!\BingRewards Pwner!\obj\Debug\BingRewardsPwner.Properties.Resources.resources
+C:\Users\Pablo\Documents\GitHub\BingRewardsPwner\BingRewards Pwner!\bin\Debug\BingRewards Pwner!.exe.config
+C:\Users\Pablo\Documents\GitHub\BingRewardsPwner\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.exe
+C:\Users\Pablo\Documents\GitHub\BingRewardsPwner\BingRewards Pwner!\obj\Debug\BingRewards Pwner!.pdb

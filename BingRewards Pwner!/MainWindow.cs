@@ -132,7 +132,7 @@ namespace BingRewardsPwner
 
                     }
                 }
-                var pcSearchInfo = webBrowser1.Document.GetElementById("srchSMR1216");
+                var pcSearchInfo = webBrowser1.Document.GetElementById("srchReg150429");
                 if (pcSearchInfo != null)
                 {
                     var pcProgress = ElementsByClass(pcSearchInfo, "progress");
